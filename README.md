@@ -1,5 +1,4 @@
-# blog
-
+# Weather App
 ## Project setup
 ```
 npm install
